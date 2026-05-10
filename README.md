@@ -115,3 +115,7 @@ npx playwright show-report
 
 - [API Testing (Postman)](https://github.com/ctrlfaith/qa-portfolio-api-testing)
 - [Manual Testing + Bug Report](https://github.com/ctrlfaith/qa-portfolio-manual-testing)
+
+## 👨‍💻 Author
+**Name:** Phuriphatthanachai Rattanatham  
+**GitHub:** [@ctrlfaith](https://github.com/ctrlfaith)
